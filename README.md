@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @3lement4ll, a 21y from Portugal.
 - 👀 I personally really enjoy front end dev, hardware, and tech in general.
-- 🌱 I’m currently learning .html and css, since i came from a non tech background and I'm trying to selft taught everything.
-- 💞️ If you have any tips, or lokking to mentor anyone please be my guest, I'll accept every help I can get.
+- 🌱 I’m currently learning html and css, since i came from a non tech background and I'm trying to self taught everything.
+- 💞️ If you have any tips, or looking to mentor anyone please be my guest, I'll accept any help I can get.
 - 📫 If you'd like to contact me email me at: romeufreitas2001@gmail.com
